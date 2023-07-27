@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733107874308",
+    "project_id": "notebook-d1386",
+    "storage_bucket": "notebook-d1386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733107874308:android:fa233a62d1da5dc2dd2351",
+        "android_client_info": {
+          "package_name": "com.iseries.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733107874308-24d6a0oll8p9oh487lf40611i3iq0lvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9JstoogYReKoXrj-riBMIboTcewdvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733107874308-24d6a0oll8p9oh487lf40611i3iq0lvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
