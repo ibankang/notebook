@@ -47,4 +47,4 @@ Link: https://iban.kang.in/notebook_privacy_policy.html
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at info@ibankang.com or ibankang.com .
+If you have any questions or feedback, feel free to reach out to us at info@ibankang.com or [ibankang.com](http://ibankang.com/)http://ibankang.com/ .
